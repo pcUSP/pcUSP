@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório do Pensamento Computacional, um projeto da Universidade de São Paulo (USP) que oferece cursos gratuitos e online de programação utilizando a metodologia do pensamento computacional para resolver desafios.
 
-## Sobre o Projeto ℹ️
+## Sobre o Projeto 💡
 
 O Pensamento Computacional visa capacitar pessoas de todas as idades a desenvolverem habilidades fundamentais de programação através de uma abordagem baseada no pensamento computacional. Oferecemos cursos que abrangem diversas linguagens de programação, incluindo Scratch, AppInventor, Python, JavaScript, HTML e CSS.
 
