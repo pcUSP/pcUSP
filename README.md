@@ -31,7 +31,7 @@ Se você é um entusiasta da programação e do pensamento computacional, há v�
 
 ## Contato 📧
 
-Para mais informações sobre o projeto Pensamento Computacional, visite nosso [site](https://www.pensamentocomputacional.usp.br) ou entre em contato conosco via e-mail em contato@pensamentocomputacional.usp.br.
+Para mais informações sobre o projeto Pensamento Computacional, visite nosso [site](https://www.pensamentocomputacional.usp.br) ou entre em contato conosco via e-mail em pcusp_rp@usp.br.
 
 Siga-nos também nas redes sociais:
 - [Instagram]([(https://www.instagram.com/pcusp/])
